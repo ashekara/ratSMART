@@ -1,5 +1,5 @@
 ---
-# title: "ratSMART:\nSemi-manual alignment to reference templates"
+# title: "ratSMART:\nSemi-manual alignment to rat reference templates"
 output: html_document
 ---
 
@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# SMART: Semi-manual alignment to reference templates
+# ratSMART: Semi-manual alignment to rat reference templates
 ***
 
 Author(s):
